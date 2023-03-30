@@ -1,2 +1,3 @@
 # jira-buddy
-Jira Buddy Chrome Extension
+
+Jira Buddy Chrome extension
